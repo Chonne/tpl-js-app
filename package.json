@@ -1,0 +1,20 @@
+{
+  "name": "tpl-js-app",
+  "version": "1.0.0",
+  "description": "Personal template for simple js apps using nodejs and npm.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chonne/tpl-js-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chonne/tpl-js-app/issues"
+  },
+  "homepage": "https://github.com/Chonne/tpl-js-app#readme"
+}
